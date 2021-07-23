@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+<h2 align="center">Trabalhando com Componentes em React - #DIO</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+___
 
-## Available Scripts
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54115624/101699995-0bd6e600-3a5b-11eb-8c2a-6c305ab1ebfe.png" width="100" heigth="100">
+</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+<p align="center">
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+___
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h3 align="center">
+  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#link-como-executar">Como Executar</a>&nbsp;|&nbsp;
+  <a href="#memo-licença">Licença</a>
+</h3>
 
-### `yarn test`
+___
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://user-images.githubusercontent.com/54115624/126731539-827911a8-d69c-4127-ac0e-eb2c8eb0de6b.png" width="1200">
 
-### `yarn build`
+## :information_source: Sobre
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Revendo sobre a estrutura e ciclo de vida dos componentes React, uma das principais tecnologias de desenvolvimento Web da atualidade.
+Foi explorado conceitos chave como o de Single Page Application (SPA), modularização e, principalmente, boas práticas relacionadas a componentes React.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :interrobang: Motivo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O curso *Trabalhando com Componentes em React* faz parte do bootcamp *#LocalizaLabs React Developer*, uma parceria entre [Digital Innovation One](https://github.com/digitalinnovationone), [Orbi Conecta](https://github.com/orbiconecta) e #LocalizaLabs, e as aulas foram ministradas por [Nathally Souza](https://github.com/nathyts)
 
-### `yarn eject`
+## :seedling: Requisitos Mínimos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+NodeJS v10
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Tecnologias Utilizadas 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- JavaScript
+- ReactJS
+- ReactDOM
+- Bootstrap
 
-## Learn More
+## :link: Como executar 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para copiar o projeto, utilize os comandos:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  # Clonar o repositório
+  ❯ git clone https://github.com/jerp86/react-dio.git
 
-### Code Splitting
+  # Entrar no diretório
+  ❯ cd react-dio
+```
+Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Utilizando yarn**
 
-### Analyzing the Bundle Size
+```bash
+  # Instalar as dependências
+  ❯ yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  # Iniciar o projeto
+  ❯ yarn start
+```
 
-### Making a Progressive Web App
+**Utilizando npm**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  # Instalar as dependências
+  ❯ npm install
 
-### Advanced Configuration
+  # Iniciar o projeto
+  ❯ npm start
+```
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## :memo: Licença 
 
-### Deployment
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `yarn build` fails to minify
+<h4 align="center">
+  Feito com ❤️ por Jerp86 👋️ <a href="mailto:jerp4@hotmail.com">Entre em contato!</a>
+</h4>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jerp/">
+    <img alt="Perfil do Linkedin de José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/LinkedIn-jerp-0e76a8?style=flat&logoColor=white&logo=linkedin">
+  </a>
+  <a href="https://www.facebook.com/jerpbtu">
+    <img alt="Perfil do Facebook de José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/Facebook-jerpbtu-1778F2?style=flat&logoColor=white&logo=facebook">
+  </a>
+  <a href="https://www.instagram.com/jerpbtu/">
+    <img alt="Perfil do Instagram de José Eduardo Rodrigues Pinto" src="https://img.shields.io/badge/Instagram-@jerpbtu-833AB4?style=flat&logoColor=white&logo=instagram">
+  </a>
+  <a href="https://twitter.com/jerpbtu">
+    <img alt="Perfil do Twitter de José Eduardo Rodrigues Pinto" src="https://img.shields.io/twitter/follow/jerpbtu?style=flat&logoColor=white&logo=Twitter">
+  </a>
+</p>
