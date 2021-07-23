@@ -3,9 +3,24 @@ const App = () => {
     <>
       <h1>Minha primeira aplicação com React</h1>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <a
+          href="/"
+          className="list-group-item list-group-item-action list-group-item-success"
+        >
+          Item 1
+        </a>
+        <a
+          href="/"
+          className="list-group-item list-group-item-action list-group-item-success"
+        >
+          Item 2
+        </a>
+        <a
+          href="/"
+          className="list-group-item list-group-item-action list-group-item-success"
+        >
+          Item 3
+        </a>
       </ul>
     </>
   );
