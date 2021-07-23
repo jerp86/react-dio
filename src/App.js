@@ -1,3 +1,5 @@
+import Item from './components/Item';
+
 const App = () => {
   return (
     <>
