@@ -4,7 +4,7 @@ const Item = (props) => {
       href="/"
       className="list-group-item list-group-item-action list-group-item-success"
     >
-      Item 1
+      {props.children}
     </a>
   );
 };
