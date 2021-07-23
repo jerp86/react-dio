@@ -1,4 +1,4 @@
-const Item = () => {
+const Item = (props) => {
   return (
     <a
       href="/"
